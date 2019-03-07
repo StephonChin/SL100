@@ -1,0 +1,24 @@
+--cpu Cortex-M0
+".\output\bt_control.o"
+".\output\config.o"
+".\output\data_process.o"
+".\output\flash_prgm.o"
+".\output\key_scan.o"
+".\output\led.o"
+".\output\usart.o"
+".\output\wifibt.o"
+".\output\music.o"
+".\output\adc.o"
+".\output\clk.o"
+".\output\fmc.o"
+".\output\gpio.o"
+".\output\timer.o"
+".\output\uart.o"
+".\output\wdt.o"
+".\output\retarget.o"
+".\output\startup_mini58series.o"
+".\output\system_mini58series.o"
+--library_type=microlib --strict --scatter ".\Output\AL100.sct"
+--entry Reset_Handler --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\AL100.map" -o .\Output\AL100.axf

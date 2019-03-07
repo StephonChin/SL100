@@ -1,0 +1,17 @@
+.\output\uart.o: C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.c
+.\output\uart.o: C:\Keil\ARM\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\uart.o: .\UserAPP\Inc\Mini58Series.h
+.\output\uart.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h
+.\output\uart.o: C:\Keil\ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\uart.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h
+.\output\uart.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h
+.\output\uart.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h
+.\output\uart.o: C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h
+.\output\uart.o: C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h
+.\output\uart.o: C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h
+.\output\uart.o: C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h
+.\output\uart.o: C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h
+.\output\uart.o: C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h
+.\output\uart.o: C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h
+.\output\uart.o: C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h
+.\output\uart.o: C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h

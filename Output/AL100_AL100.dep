@@ -1,0 +1,370 @@
+Dependencies for Project 'AL100', Target 'AL100': (DO NOT MODIFY !)
+F (.\UserAPP\Src\BT_Control.c)(0x5C43F3F6)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\UserAPP\Inc-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include-D__UVISION_VERSION="521" -D_RTE_-o .\output\bt_control.o --omf_browse .\output\bt_control.crf --depend .\output\bt_control.d)
+I (.\UserAPP\Inc\BT_Control.h)(0x5B62719D)
+I (.\UserAPP\Inc\TypeDef.h)(0x5BD6F832)
+I (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h)(0x58BCCCF0)
+I (.\UserAPP\Inc\Config.h)(0x5BE04B51)
+F (.\UserAPP\Src\Config.c)(0x5BE04B50)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\UserAPP\Inc-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include-D__UVISION_VERSION="521" -D_RTE_-o .\output\config.o --omf_browse .\output\config.crf --depend .\output\config.d)
+I (.\UserAPP\Inc\Config.h)(0x5BE04B51)
+I (.\UserAPP\Inc\TypeDef.h)(0x5BD6F832)
+I (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h)(0x58BCCCF0)
+F (.\UserAPP\Src\Data_Process.c)(0x5BE35658)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\UserAPP\Inc-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include-D__UVISION_VERSION="521" -D_RTE_-o .\output\data_process.o --omf_browse .\output\data_process.crf --depend .\output\data_process.d)
+I (.\UserAPP\Inc\Data_Process.h)(0x5BD8164F)
+I (.\UserAPP\Inc\USART.h)(0x5BE3572C)
+I (.\UserAPP\Inc\TypeDef.h)(0x5BD6F832)
+I (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h)(0x58BCCCF0)
+I (.\UserAPP\Inc\Key_Scan.h)(0x5BE04AE8)
+I (.\UserAPP\Inc\Config.h)(0x5BE04B51)
+I (.\UserAPP\Inc\Music.h)(0x5BE354EA)
+I (.\UserAPP\Inc\Led.h)(0x5BE2B36B)
+I (C:\Keil\ARM\ARM\ARMCC\include\math.h)(0x574E3E26)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (.\UserAPP\Inc\BT_Control.h)(0x5B62719D)
+I (.\UserAPP\Inc\Flash_Prgm.h)(0x5BD70B2B)
+F (.\UserAPP\Src\Flash_Prgm.c)(0x5BD70B96)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\UserAPP\Inc-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include-D__UVISION_VERSION="521" -D_RTE_-o .\output\flash_prgm.o --omf_browse .\output\flash_prgm.crf --depend .\output\flash_prgm.d)
+I (.\UserAPP\Inc\Flash_Prgm.h)(0x5BD70B2B)
+I (.\UserAPP\Inc\TypeDef.h)(0x5BD6F832)
+I (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h)(0x58BCCCF0)
+I (.\UserAPP\Inc\Data_Process.h)(0x5BD8164F)
+I (.\UserAPP\Inc\USART.h)(0x5BE3572C)
+I (.\UserAPP\Inc\Key_Scan.h)(0x5BE04AE8)
+I (.\UserAPP\Inc\Config.h)(0x5BE04B51)
+I (.\UserAPP\Inc\Music.h)(0x5BE354EA)
+I (.\UserAPP\Inc\Led.h)(0x5BE2B36B)
+I (C:\Keil\ARM\ARM\ARMCC\include\math.h)(0x574E3E26)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (.\UserAPP\Inc\BT_Control.h)(0x5B62719D)
+F (.\UserAPP\Src\Key_Scan.c)(0x5BE04B95)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\UserAPP\Inc-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include-D__UVISION_VERSION="521" -D_RTE_-o .\output\key_scan.o --omf_browse .\output\key_scan.crf --depend .\output\key_scan.d)
+I (.\UserAPP\Inc\Key_Scan.h)(0x5BE04AE8)
+I (.\UserAPP\Inc\TypeDef.h)(0x5BD6F832)
+I (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h)(0x58BCCCF0)
+I (.\UserAPP\Inc\Config.h)(0x5BE04B51)
+I (.\UserAPP\Inc\Music.h)(0x5BE354EA)
+I (.\UserAPP\Inc\Led.h)(0x5BE2B36B)
+I (C:\Keil\ARM\ARM\ARMCC\include\math.h)(0x574E3E26)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+F (.\UserAPP\Src\Led.c)(0x5BE2B36B)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\UserAPP\Inc-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include-D__UVISION_VERSION="521" -D_RTE_-o .\output\led.o --omf_browse .\output\led.crf --depend .\output\led.d)
+I (.\UserAPP\Inc\Led.h)(0x5BE2B36B)
+I (.\UserAPP\Inc\TypeDef.h)(0x5BD6F832)
+I (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h)(0x58BCCCF0)
+I (.\UserAPP\Inc\Config.h)(0x5BE04B51)
+I (.\UserAPP\Inc\Music.h)(0x5BE354EA)
+I (C:\Keil\ARM\ARM\ARMCC\include\math.h)(0x574E3E26)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+F (.\UserAPP\Src\USART.c)(0x5BD81BD4)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\UserAPP\Inc-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include-D__UVISION_VERSION="521" -D_RTE_-o .\output\usart.o --omf_browse .\output\usart.crf --depend .\output\usart.d)
+I (.\UserAPP\Inc\USART.h)(0x5BE3572C)
+I (.\UserAPP\Inc\TypeDef.h)(0x5BD6F832)
+I (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h)(0x58BCCCF0)
+F (.\UserAPP\Src\WifiBt.c)(0x5BDBC043)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\UserAPP\Inc-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include-D__UVISION_VERSION="521" -D_RTE_-o .\output\wifibt.o --omf_browse .\output\wifibt.crf --depend .\output\wifibt.d)
+I (.\UserAPP\Inc\WifiBt.h)(0x5BD8106D)
+I (.\UserAPP\Inc\Config.h)(0x5BE04B51)
+I (.\UserAPP\Inc\TypeDef.h)(0x5BD6F832)
+I (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h)(0x58BCCCF0)
+I (.\UserAPP\Inc\USART.h)(0x5BE3572C)
+I (.\UserAPP\Inc\Key_Scan.h)(0x5BE04AE8)
+I (.\UserAPP\Inc\Music.h)(0x5BE354EA)
+I (.\UserAPP\Inc\Led.h)(0x5BE2B36B)
+I (C:\Keil\ARM\ARM\ARMCC\include\math.h)(0x574E3E26)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (.\UserAPP\Inc\Data_Process.h)(0x5BD8164F)
+I (.\UserAPP\Inc\BT_Control.h)(0x5B62719D)
+I (.\UserAPP\Inc\Flash_Prgm.h)(0x5BD70B2B)
+F (.\UserAPP\Src\Music.c)(0x5BE35652)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\UserAPP\Inc-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include-D__UVISION_VERSION="521" -D_RTE_-o .\output\music.o --omf_browse .\output\music.crf --depend .\output\music.d)
+I (.\UserAPP\Inc\Music.h)(0x5BE354EA)
+I (.\UserAPP\Inc\TypeDef.h)(0x5BD6F832)
+I (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h)(0x58BCCCF0)
+I (.\UserAPP\Inc\Led.h)(0x5BE2B36B)
+I (.\UserAPP\Inc\Config.h)(0x5BE04B51)
+I (C:\Keil\ARM\ARM\ARMCC\include\math.h)(0x574E3E26)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+F (.\UserAPP\Inc\BT_Control.h)(0x5B62719D)()
+F (.\UserAPP\Inc\Config.h)(0x5BE04B51)()
+F (.\UserAPP\Inc\Data_Process.h)(0x5BD8164F)()
+F (.\UserAPP\Inc\Flash_Prgm.h)(0x5BD70B2B)()
+F (.\UserAPP\Inc\Key_Scan.h)(0x5BE04AE8)()
+F (.\UserAPP\Inc\Led.h)(0x5BE2B36B)()
+F (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)()
+F (.\UserAPP\Inc\TypeDef.h)(0x5BD6F832)()
+F (.\UserAPP\Inc\USART.h)(0x5BE3572C)()
+F (.\UserAPP\Inc\WifiBt.h)(0x5BD8106D)()
+F (.\UserAPP\Inc\Music.h)(0x5BE354EA)()
+F (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.c)(0x58BCCCF0)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\UserAPP\Inc-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include-D__UVISION_VERSION="521" -D_RTE_-o .\output\adc.o --omf_browse .\output\adc.crf --depend .\output\adc.d)
+I (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h)(0x58BCCCF0)
+F (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.c)(0x58BCCCF0)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\UserAPP\Inc-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include-D__UVISION_VERSION="521" -D_RTE_-o .\output\clk.o --omf_browse .\output\clk.crf --depend .\output\clk.d)
+I (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h)(0x58BCCCF0)
+F (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.c)(0x58BCCCF0)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\UserAPP\Inc-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include-D__UVISION_VERSION="521" -D_RTE_-o .\output\fmc.o --omf_browse .\output\fmc.crf --depend .\output\fmc.d)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h)(0x58BCCCF0)
+F (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.c)(0x58BCCCF0)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\UserAPP\Inc-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include-D__UVISION_VERSION="521" -D_RTE_-o .\output\gpio.o --omf_browse .\output\gpio.crf --depend .\output\gpio.d)
+I (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h)(0x58BCCCF0)
+F (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.c)(0x58BCCCF0)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\UserAPP\Inc-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include-D__UVISION_VERSION="521" -D_RTE_-o .\output\timer.o --omf_browse .\output\timer.crf --depend .\output\timer.d)
+I (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h)(0x58BCCCF0)
+F (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.c)(0x58BCCCF0)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\UserAPP\Inc-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include-D__UVISION_VERSION="521" -D_RTE_-o .\output\uart.o --omf_browse .\output\uart.crf --depend .\output\uart.d)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h)(0x58BCCCF0)
+F (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\wdt.c)(0x58BCCCF0)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\UserAPP\Inc-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include-D__UVISION_VERSION="521" -D_RTE_-o .\output\wdt.o --omf_browse .\output\wdt.crf --depend .\output\wdt.d)
+I (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h)(0x58BCCCF0)
+F (RTE\Device\Mini58FDE\retarget.c)(0x58BCCCF0)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\UserAPP\Inc-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include-D__UVISION_VERSION="521" -D_RTE_-o .\output\retarget.o --omf_browse .\output\retarget.crf --depend .\output\retarget.d)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h)(0x58BCCCF0)
+F (RTE\Device\Mini58FDE\startup_Mini58Series.s)(0x58BCCCF0)(--cpu Cortex-M0 -g --apcs=interwork --pd "__MICROLIB SETA 1"-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include--pd "__UVISION_VERSION SETA 521" --pd "_RTE_ SETA 1"--list .\listings\startup_mini58series.lst --xref -o .\output\startup_mini58series.o --depend .\output\startup_mini58series.d)
+F (RTE\Device\Mini58FDE\system_Mini58Series.c)(0x58BCCCF0)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\UserAPP\Inc-IH:\Willis\ShowLights\ShowHomeApp\2.0\WIFI-BT\0.6.0\RTE-IC:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver-IC:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include-D__UVISION_VERSION="521" -D_RTE_-o .\output\system_mini58series.o --omf_browse .\output\system_mini58series.crf --depend .\output\system_mini58series.d)
+I (C:\Keil\ARM\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (.\UserAPP\Inc\Mini58Series.h)(0x5BD7140E)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm0.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0D5BFA)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Include\system_Mini58Series.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\sys.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\clk.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\adc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\fmc.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\gpio.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\pwm.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\timer.h)(0x58BCCCF0)
+I (C:\Keil\ARM\PACK\Nuvoton\NuMicro_DFP\1.1.0\Device\Mini58\Driver\uart.h)(0x58BCCCF0)
